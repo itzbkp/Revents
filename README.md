@@ -1,1 +1,1 @@
-# Revents - My very first React Application
+# Revents - React Application
